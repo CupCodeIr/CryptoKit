@@ -1,0 +1,20 @@
+{
+    "/css/app.css": "/css/app.css?id=d41d8cd98f00b204e980",
+    "/js/home.js": "/js/home.js?id=0a723bed71172ee9cb21",
+    "/css/home.css": "/css/home.css?id=4835ef6185c4c8e704f0",
+    "/js/coin-mixed.js": "/js/coin-mixed.js?id=57da5446777d6df135c6",
+    "/css/coin-mixed.css": "/css/coin-mixed.css?id=69fda4c202bfd2a10f4b",
+    "/js/entity-index.js": "/js/entity-index.js?id=b0e6587063997daabbe4",
+    "/css/entity-index.css": "/css/entity-index.css?id=919ae47ffaf854721dfa",
+    "/js/wallet.js": "/js/wallet.js?id=2d788233be5a5cc5bfdc",
+    "/css/wallet.css": "/css/wallet.css?id=06eaaa12c4fb9919324f",
+    "/js/exchange.js": "/js/exchange.js?id=b0e6587063997daabbe4",
+    "/css/exchange.css": "/css/exchange.css?id=735c886c80bfa4a9c3a5",
+    "/js/mining_company.js": "/js/mining_company.js?id=b0e6587063997daabbe4",
+    "/css/mining_company.css": "/css/mining_company.css?id=0d28ae857e3c943164e1",
+    "/js/mining_equipment.js": "/js/mining_equipment.js?id=b0e6587063997daabbe4",
+    "/css/mining_equipment.css": "/css/mining_equipment.css?id=a33f469fb7eaaaebfb20",
+    "/css/mining_pool.css": "/css/mining_pool.css?id=91fc3edf32833cf0c52d",
+    "/js/atm_map.js": "/js/atm_map.js?id=b0e6587063997daabbe4",
+    "/css/atm_map.css": "/css/atm_map.css?id=f74d4b254f8fd4dd896f"
+}

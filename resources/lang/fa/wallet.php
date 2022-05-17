@@ -1,0 +1,23 @@
+<?php
+return [
+    'High' => 'bg-high_shield',
+    'Low' => 'bg-low_shield',
+    'Medium' => 'bg-medium_shield',
+    'Chrome Extension' => 'bg-Chrome_Extension',
+    'Windows' => 'bg-Windows',
+    'Windows Phone' => 'bg-Windows_Phone',
+    'Mac OS' => 'bg-Mac_OS',
+    'Linux' => 'bg-Linux',
+    'Android' => 'bg-Android',
+    'iOS' => 'bg-iOS',
+    'Web' => 'bg-Web',
+    'Hardware' => 'bg-Hardware',
+    'Chrome Extension tip' => 'افزونه مرورگر کروم',
+    'Windows tip' => 'نرم افزار ویندوزی',
+    'Mac OS tip' => 'نرم افزار مک',
+    'Linux tip' => 'نرم افزار لینوکسی',
+    'Android tip' => 'اپلیکیشن اندرویدی',
+    'iOS tip' => 'اپلیکیشن آی او اس',
+    'Web tip' => 'اپلیکیشن تحت وب',
+    'Hardware tip' => 'کیف پول سخت افزاری',
+];

@@ -1,0 +1,51 @@
+.masonry-container{
+    column-count: 4;
+}
+.pagination {
+    justify-content: center;
+}
+.page-item{
+    margin: 3px;
+}
+.page-link{
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+}
+.meta-item {
+    display: inline-block;
+    border: solid 1px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 3px 0;
+}
+.meta-item:hover {
+    background: white;
+    color: black;
+}
+.pagination-container ul{
+    flex-wrap: wrap;
+}
+
+
+
+@media only screen and (max-width: 850px) {
+    .masonry-container {
+        column-count: 3;
+    }
+}
+@media only screen and (max-width: 650px) {
+    .masonry-container {
+        column-count: 2;
+    }
+}
+@media only screen and (max-width: 450px) {
+    .masonry-container {
+        column-count: 1;
+    }
+}
+
+.form-control{
+    font-size: unset;
+}
+

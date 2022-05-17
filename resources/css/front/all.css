@@ -1,0 +1,312 @@
+@font-face {
+    font-family: 'Sans';
+    src: url('../font/Sans.eot'); /* IE9 Compat Modes */
+    src: url('../font/Sans.woff2') format('woff2'), /* Super Modern Browsers */ url('../font/Sans.woff') format('woff'), /* Pretty Modern Browsers */ url('../font/Sans.ttf') format('truetype') /* Safari, Android, iOS */
+}
+
+body {
+    font-family: 'Sans', Tahoma;
+    direction: rtl;
+    color: white;
+    text-align: right;
+    font-size: 13px;
+    line-height: 30px;
+
+}
+.bg-bitcoin_btc {
+    width: 32px; height: 32px;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -230px;
+}
+.bg-ethereum_eth {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -10px !important;
+}
+.bg-tether_usdt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -322px !important;
+}
+
+.bg-bitcoin_cash_bch {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -230px !important;
+}
+.bg-cardano_ada {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -282px !important;
+}
+
+h3{
+    line-height: 50px;
+    font-size: 1.1rem;
+}
+
+/*#select2-tns-result-container-results::-webkit-scrollbar {*/
+/*    width: 12px;*/
+/*}*/
+
+/*#select2-tns-result-container-results::-webkit-scrollbar-track {*/
+/*    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);*/
+/*    border-radius: 10px;*/
+/*}*/
+
+/*#select2-tns-result-container-results::-webkit-scrollbar-thumb {*/
+/*    border-radius: 10px;*/
+/*    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);*/
+/*}*/
+
+#donate-icons {
+    display: flex;
+    background: #142850;
+    border-radius: 2px;
+    padding: 10px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#donate-icons div{
+    opacity: .8;
+}#donate-icons div:hover {
+     opacity: 1;
+     cursor: pointer;
+ }
+
+#copyAlert{
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    margin-right: 10px;
+}
+.dropdown-menu{
+    font-size: 14px;
+}
+
+a {
+    color: white;
+}
+
+.primary-bg {
+    background-color: #27496d;
+}
+
+.secondary-bg {
+    background-color: #142850;
+}
+
+.toolsMenu {
+    position: static !important;
+
+}
+
+.toolsMenu .dropdown-menu {
+    margin-top: 0 !important;
+    width: 100% !important;
+    border-radius: 0;
+    border: solid white 1px;
+    border-right: 0;
+    border-left: 0;
+    text-align: right;
+}
+
+.navbar-search-form input {
+
+    border-radius: 0 5px 5px 0;
+    height: 35px;
+}
+
+.navbar-search-form button {
+    border-radius: 5px 0 0 5px;
+    height: 35px;
+}
+
+#home-top-navbar{
+
+    background-color: #282828;
+}
+#home-top-navbar a {
+    color: white;
+    width: max-content !important;
+    padding: 0 !important;
+}
+#home-top-navbar a:hover {
+    background: none !important;
+    text-shadow: olive;
+    text-shadow: 1px 0px 6px rgba(150, 150, 150, 1);
+}
+
+.select2-container{
+    color: black;
+}
+.select2-container .selection{
+    display: none;
+}
+.select2-container .select2-dropdown{
+    top: -18px;
+}
+.select2 {
+    display: none !important;
+}
+.select2-display{
+    display: unset !important;
+}
+
+.txt-red{
+    color: #f78a8a;
+}
+.txt-green{
+    color: #4cb04c;
+
+}
+
+.dtr-modal{
+    color:black;
+    z-index: 2000 !important;
+}
+
+.dtr-modal .dtr-modal-display{
+
+    bottom: unset !important;
+    height: max-content !important;
+}
+.dtr-modal .dtr-details {
+    margin: 20px 0px;
+}
+
+
+/* Coins sprite */
+
+.bg-CAD {
+    width: 23px; height: 23px;
+    background: url('../image/home_sprites.png') -198px -54px;
+}.bg-coffee {
+    width: 32px; height: 24px;
+    background: url('../image/home_sprites.png') -198px -10px;
+}.bg-coin {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -94px -10px;
+}.bg-EUR {
+    width: 23px; height: 23px;
+    background: url('../image/home_sprites.png') -198px -97px;
+}.bg-exchange {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -10px -94px;
+}.bg-IRT {
+    width: 23px; height: 23px;
+    background: url('../image/home_sprites.png') -198px -140px;
+}.bg-map {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -62px -94px;
+}.bg-mcompany {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -146px -10px;
+}.bg-mequipment {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -146px -62px;
+}.bg-mpool {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -10px -146px;
+}.bg-TRY {
+    width: 23px; height: 23px;
+    background: url('../image/home_sprites.png') -10px -198px;
+}.bg-USD {
+    width: 23px; height: 23px;
+    background: url('../image/home_sprites.png') -53px -198px;
+}.bg-wallet {
+    width: 32px; height: 32px;
+    background: url('../image/home_sprites.png') -62px -146px;
+}.bg-way {
+    width: 30px; height: 30px;
+    background: url('../image/home_sprites.png') -114px -146px;
+}.bg-logo_64 {
+    width: 64px; height: 64px;
+    background: url('../image/home_sprites.png') -10px -10px;
+}
+
+
+/* Coins sprite */
+
+
+.currency-name{
+    font-size: 14px;
+}
+#currency-dropdown .dropdown-item, #dropdown-selected-currency {
+    display: inline-flex;
+    align-items: center;
+}
+
+#dropdown-selected-currency.dropdown-toggle::after {
+    margin-right: 5px;
+
+}
+#coins-summary-table{
+    border-spacing: 0 10px;
+}
+
+#coins-summary-table, .fixedHeader-floating {
+    color: black;
+}
+
+#coins-summary-table thead {
+    background-color: white;
+}
+
+.dataTables_filter, .dataTables_length, .dataTables_info {
+    color: white !important;
+}
+
+.datatable-copy-btn {
+    background: none !important;
+    color: white !important;;
+    border-radius: 4px !important;
+    border-color: white !important;
+}
+
+.datatable-copy-btn:hover {
+    background: white !important;
+    color: black !important;;
+}
+
+.datatable-search-input {
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 13px;
+    margin-bottom: 0px !important;
+    border: solid white 1px;
+    background: none;
+    color: white;
+}
+
+#footer-bio {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.ltr{
+    direction: ltr;
+}
+p{
+    font-size: .9rem;
+}
+h1{
+    font-size: 2rem;
+}
+h2{
+
+    font-size: 1.5rem;
+}
+
+.bg-tertiary{
+    background-color:#00909e;
+}
+
+.link-white button{
+    color: white;
+}
+
+.fixedHeader-floating{
+    z-index: 1;
+}
+footer a:hover {
+    color: darkgrey;
+    text-decoration: none;
+}

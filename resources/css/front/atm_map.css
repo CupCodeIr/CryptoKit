@@ -1,0 +1,274 @@
+.border-light {
+    border: white 1px solid;
+}
+
+.ymap-public {
+    font-family: 'Sans';
+}
+
+#map {
+    width: 81.6vw;
+    height: 30vw;
+    font-family: 'Sans';
+}
+
+#map * {
+    font-family: 'Sans';
+}
+
+.map_item_header {
+    display: inherit;
+    font-family: 'Sans';
+    text-align: right;
+}
+
+.map_item_footer {
+    display: inherit;
+    text-align: right;
+    font-family: 'Sans';
+}
+
+
+/* CSS Sprites */
+
+
+.bg-atm {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -362px;
+}
+
+.bg-attraction {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -414px;
+}
+
+.bg-cafe {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -466px;
+}
+
+.bg-default {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -518px;
+}
+
+.bg-drug_store {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -570px;
+}
+
+.bg-education {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -622px;
+}
+
+.bg-email {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -10px;
+}
+
+.bg-facebook {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -54px;
+}
+
+.bg-fax {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -98px;
+}
+
+.bg-food {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -674px;
+}
+
+.bg-grocery {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -726px;
+}
+
+.bg-info {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -142px;
+}
+
+.bg-lodging {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -778px;
+}
+
+.bg-nightlife {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -830px;
+}
+
+.bg-phone {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -186px;
+}
+
+.bg-pin {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -230px;
+}
+
+.bg-shopping {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -882px;
+}
+
+.bg-sport {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -934px;
+}
+
+.bg-transportation {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -986px;
+}
+
+.bg-travel_agency {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -1038px;
+}
+
+.bg-twitter {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -274px;
+}
+
+.bg-website {
+    width: 24px;
+    height: 24px;
+    background: url('../image/crypto_atm.png') -10px -318px;
+}
+
+.bg-you {
+    width: 32px;
+    height: 32px;
+    background: url('../image/crypto_atm.png') -10px -1090px;
+}
+
+
+/* CSS Sprites */
+
+
+/* Loading Animation */
+
+.lds-ripple {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+.lds-ripple div {
+    position: absolute;
+    border: 4px solid #101121;
+    opacity: 1;
+    border-radius: 50%;
+    animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+.lds-ripple div:nth-child(2) {
+    animation-delay: -0.5s;
+}
+@keyframes lds-ripple {
+    0% {
+        top: 36px;
+        left: 36px;
+        width: 0;
+        height: 0;
+        opacity: 1;
+    }
+    100% {
+        top: 0px;
+        left: 0px;
+        width: 72px;
+        height: 72px;
+        opacity: 0;
+    }
+}
+
+
+
+
+/* Loading Animation */
+
+
+
+
+.atm_item_content_container {
+    direction: rtl;
+    font-family: 'Sans';
+    text-align: right;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    #map {
+        width: 78.5vw;
+        height: 73vw;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+    #map {
+        width: 82.6vw;
+        height: 73vw;
+    }
+
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    #map {
+        width: 89.5vw;
+        height: 33vw;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    #map {
+        width: 81.6vw;
+        height: 30vw;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+
+    #map {
+        width: 81.6vw;
+        height: 30vw;
+    }
+}

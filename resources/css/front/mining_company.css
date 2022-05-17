@@ -1,0 +1,71 @@
+.border-light{
+    border: white 1px solid;
+}
+hr.hr-text {
+    position: relative;
+    border: none;
+    height: 1px;
+    background: #999;
+}
+
+hr.hr-text::before {
+    content: attr(data-content);
+    display: inline-block;
+    background: #fff;
+    font-weight: bold;
+    font-size: 0.85rem;
+    color: #999;
+    border-radius: 30rem;
+    padding: 0.2rem 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.coin-description {
+    line-height: 30px;
+}
+
+.links-card {
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+}
+.links-card-body {
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.link-black a{
+    color: black;
+}
+
+
+
+/*  stars  */
+
+.bg-half_star {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -142px -142px;
+}
+.bg-one_third_star {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -10px;
+}
+.bg-star {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -53px;
+}
+.bg-three_fourth {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -96px;
+}
+.bg-unstar {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -139px;
+}
+
+
+
+/*  social networks  */

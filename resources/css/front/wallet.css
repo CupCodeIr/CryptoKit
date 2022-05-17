@@ -1,0 +1,183 @@
+.border-light{
+    border: white 1px solid;
+}
+
+.coin-price{
+    font-size: 30px;
+}
+.bg-red{
+    background-color: #f78a8a ;
+}
+.txt-red{
+    color: #f78a8a;
+}
+.bg-green{
+    background-color: #4cb04c ;
+
+}
+.txt-green{
+    color: #4cb04c;
+
+}
+.coin-price sup {
+    margin: 10px;
+    border-radius: 10px;
+}
+hr.hr-text {
+    position: relative;
+    border: none;
+    height: 1px;
+    background: #999;
+}
+
+hr.hr-text::before {
+    content: attr(data-content);
+    display: inline-block;
+    background: #fff;
+    font-weight: bold;
+    font-size: 0.85rem;
+    color: #999;
+    border-radius: 30rem;
+    padding: 0.2rem 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#coin-circulating-progress{
+    height: 25px;
+    min-width: 250px;
+}
+.coin-description {
+    line-height: 30px;
+}
+
+.links-card {
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+}
+.links-card-body {
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+
+
+/* CSS Sprites    */
+
+.bg-github {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -10px -10px;
+}
+.bg-half_star {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -142px -142px;
+}
+.bg-Hardware {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -54px -10px;
+}
+.bg-high_shield {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -10px -54px;
+}
+.bg-iOS {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -54px -54px;
+}
+.bg-Linux {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -98px -10px;
+}
+.bg-low_shield {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -98px -54px;
+}
+.bg-Mac_OS {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -10px -98px;
+}
+.bg-medium_shield {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -54px -98px;
+}
+.bg-one_third_star {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -10px;
+}
+.bg-star {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -53px;
+}
+.bg-three_fourth {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -96px;
+}
+.bg-unstar {
+    width: 24px; height: 23px;
+    background: url('../image/wallet_page.png') -186px -139px;
+}
+.bg-Web {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -98px -98px;
+}
+.bg-Windows_Phone {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -142px -10px;
+}
+.bg-Windows {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -142px -54px;
+}
+.bg-Android {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -142px -98px;
+}
+.bg-check {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -10px -142px;
+}
+.bg-Chrome_Extension {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -54px -142px;
+}
+.bg-cross {
+    width: 24px; height: 24px;
+    background: url('../image/wallet_page.png') -98px -142px;
+}
+
+
+
+/* CSS Sprites    */
+
+
+
+
+.datatable-search-input {
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 13px;
+    margin-bottom: 0px !important;
+    border: solid white 1px;
+    background: none;
+    color: white;
+}
+
+.link-black a{
+    color: black;
+}
+
+.coin-item {
+    display: inline-block;
+    border: solid 1px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 3px 0;
+}
+.coin-item:hover{
+    background: white;
+    color: black;
+    border: none;
+}

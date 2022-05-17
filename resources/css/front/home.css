@@ -1,0 +1,1067 @@
+.coin-id {
+    display: inline-flex;
+    align-items: center;
+    width: -moz-available;
+    width: -webkit-fill-available;
+}
+
+
+
+/* Coins  */
+
+
+.bg-0x_zrx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -125px !important;
+}
+.bg-aave_lend_alend {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -125px !important;
+}
+.bg-aave_link_alink {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -125px !important;
+}
+.bg-aelf_elf {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -10px !important;
+}
+.bg-aeternity_ae {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -62px !important;
+}
+.bg-aion_aion {
+    width: 32px; height: 33px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -10px !important;
+}
+.bg-algorand_algo {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -114px !important;
+}
+.bg-aragon_ant {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -178px !important;
+}
+
+.bg-ardor_ardr {
+    width: 32px; height: 27px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -698px !important;
+}
+
+.bg-ark_ark {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -178px !important;
+}
+
+.bg-augur_rep {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -178px !important;
+}
+
+.bg-aurora_dao_idex {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -178px !important;
+}
+
+.bg-balancer_bal {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -178px !important;
+}
+
+.bg-banana_token_bnana {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -10px !important;
+}
+
+.bg-bancor_bnt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -62px !important;
+}
+
+.bg-band_protocol_band {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -114px !important;
+}
+
+.bg-basic_attention_token_bat {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -166px !important;
+}
+
+.bg-beam_beam {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -230px !important;
+}
+
+.bg-binancecoin_bnb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -230px !important;
+}
+
+.bg-binance_usd_busd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -230px !important;
+}
+
+.bg-bitcoin_btc {
+    width: 32px; height: 32px;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -230px;
+}
+
+.bg-bitcoin_cash_bch {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -230px !important;
+}
+
+.bg-bitcoin_cash_sv_bsv {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -230px !important;
+}
+
+.bg-bitcoin_diamond_bcd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -10px !important;
+}
+
+.bg-bitcoin_gold_btg {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -62px !important;
+}
+
+.bg-bitshares_bts {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -114px !important;
+}
+
+.bg-bittorrent_2_btt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -166px !important;
+}
+
+.bg-blockstack_stx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -218px !important;
+}
+
+.bg-bmax_btmx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -282px !important;
+}
+
+.bg-bosagora_boa {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -282px !important;
+}
+
+.bg-btu_protocol_btu {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -282px !important;
+}
+
+.bg-bytecoin_bcn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -282px !important;
+}
+
+.bg-bytom_btm {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -282px !important;
+}
+
+.bg-cardano_ada {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -282px !important;
+}
+
+.bg-carry_cre {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -282px !important;
+}
+
+.bg-cdai_cdai {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -10px !important;
+}
+
+.bg-celsius_degree_token_cel {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -62px !important;
+}
+
+.bg-chainlink_link {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -114px !important;
+}
+
+.bg-chiliz_chz {
+    width: 32px; height: 31px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -478px !important;
+}
+
+.bg-civic_cvc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -166px !important;
+}
+
+.bg-compound_0x_czrx {
+    width: 32px; height: 31px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -529px !important;
+}
+
+.bg-compound_basic_attention_token_cbat {
+    width: 32px; height: 33px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -63px !important;
+}
+
+.bg-compound_ether_ceth {
+    width: 32px; height: 33px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -125px !important;
+}
+
+.bg-compound_governance_token_comp {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -218px !important;
+}
+
+.bg-compound_usd_coin_cusdc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -270px !important;
+}
+
+.bg-compound_usdt_cusdt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -334px !important;
+}
+
+.bg-cosmos_atom {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -334px !important;
+}
+
+.bg-crypterium_crpt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -334px !important;
+}
+
+.bg-crypto_com_chain_cro {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -334px !important;
+}
+
+.bg-coin_default {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -334px !important;
+}
+
+.bg-dai_dai {
+    width: 32px; height: 27px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -698px !important;
+}
+
+.bg-dash_dash {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -334px !important;
+}
+
+.bg-decentraland_mana {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -334px !important;
+}
+
+.bg-decred_dcr {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -334px !important;
+}
+
+.bg-digibyte_dgb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -10px !important;
+}
+
+.bg-digitex_futures_exchange_dgtx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -62px !important;
+}
+
+.bg-divi_divi {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -114px !important;
+}
+
+.bg-dmm_governance_dmg {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -166px !important;
+}
+
+.bg-dogecoin_doge {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -218px !important;
+}
+
+.bg-dragonchain_drgn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -270px !important;
+}
+
+.bg-dxchain_dx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -322px !important;
+}
+
+.bg-edgeware_edg {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -386px !important;
+}
+
+.bg-elastos_ela {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -386px !important;
+}
+
+.bg-electroneum_etn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -386px !important;
+}
+
+.bg-elrond_erd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -386px !important;
+}
+
+.bg-energi_nrg {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -386px !important;
+}
+
+.bg-enigma_eng {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -386px !important;
+}
+
+.bg-enjincoin_enj {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -386px !important;
+}
+
+.bg-eos_eos {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -386px !important;
+}
+
+.bg-ethereum_classic_etc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -386px !important;
+}
+
+.bg-ethereum_eth {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -10px !important;
+}
+
+.bg-ethlend_lend {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -62px !important;
+}
+
+.bg-fetch_ai_fet {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -114px !important;
+}
+
+.bg-fsn_fsn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -166px !important;
+}
+
+.bg-ftx_token_ftt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -218px !important;
+}
+
+.bg-funfair_fun {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -270px !important;
+}
+
+.bg-gas_gas {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -322px !important;
+}
+
+.bg-gatechain_token_gt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -374px !important;
+}
+
+.bg-ghost_by_mcafee_ghost {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -438px !important;
+}
+
+.bg-gnosis_gno {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -438px !important;
+}
+
+.bg-golem_gnt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -438px !important;
+}
+
+.bg-grin_grin {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -438px !important;
+}
+
+.bg-gxchain_gxc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -438px !important;
+}
+
+.bg-handshake_hns {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -438px !important;
+}
+
+.bg-harmony_one {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -438px !important;
+}
+
+.bg-havven_snx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -438px !important;
+}
+
+.bg-hedera_hashgraph_hbar {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -438px !important;
+}
+
+.bg-helium_hnt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -438px !important;
+}
+
+.bg-hive_hive {
+    width: 32px; height: 28px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -698px !important;
+}
+
+.bg-holotoken_hot {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -10px !important;
+}
+
+.bg-hshare_hc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -62px !important;
+}
+
+.bg-huobi_token_ht {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -114px !important;
+}
+
+.bg-husd_husd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -166px !important;
+}
+
+.bg-hyperion_hyn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -218px !important;
+}
+
+.bg-icon_icx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -270px !important;
+}
+
+.bg-iexec_rlc_rlc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -322px !important;
+}
+
+.bg-ignis_ignis {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -374px !important;
+}
+
+.bg-ins_ecosystem_xns {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -426px !important;
+}
+
+.bg-ionchain_token_ionc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -490px !important;
+}
+
+.bg-iostoken_iost {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -490px !important;
+}
+
+.bg-iota_miota {
+    width: 32px; height: 29px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -630px !important;
+}
+
+.bg-iotex_iotx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -490px !important;
+}
+
+.bg-kava_kava {
+    width: 32px; height: 37px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -10px !important;
+}
+
+.bg-komodo_kmd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -490px !important;
+}
+
+.bg-kucoin_shares_kcs {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -490px !important;
+}
+
+.bg-kusama_ksm {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -490px !important;
+}
+
+.bg-kyber_network_knc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -490px !important;
+}
+
+.bg-lambda_lamb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -490px !important;
+}
+
+.bg-leo_token_leo {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -490px !important;
+}
+
+.bg-lisk_lsk {
+    width: 32px; height: 38px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -10px !important;
+}
+
+.bg-litecoin_ltc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -490px !important;
+}
+
+.bg-loom_network_loom {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -490px !important;
+}
+
+.bg-loopring_lrc {
+    width: 32px; height: 28px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -698px !important;
+}
+
+.bg-maidsafecoin_maid {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -10px !important;
+}
+
+.bg-maker_mkr {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -62px !important;
+}
+
+.bg-matic_network_matic {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -114px !important;
+}
+
+.bg-metal_mtl {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -166px !important;
+}
+
+.bg-monacoin_mona {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -218px !important;
+}
+
+.bg-monaco_mco {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -270px !important;
+}
+
+.bg-monero_xmr {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -322px !important;
+}
+
+.bg-nano_nano {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -374px !important;
+}
+
+.bg-nebulas_nas {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -426px !important;
+}
+
+.bg-nem_xem {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -478px !important;
+}
+
+.bg-neo_neo {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -542px !important;
+}
+
+.bg-neon_exchange_nex {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -542px !important;
+}
+
+.bg-nervos_network_ckb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -542px !important;
+}
+
+.bg-nexo_nexo {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -542px !important;
+}
+
+.bg-nuls_nuls {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -542px !important;
+}
+
+.bg-numeraire_nmr {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -542px !important;
+}
+
+.bg-nusd_susd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -542px !important;
+}
+
+.bg-ocean_protocol_ocean {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -542px !important;
+}
+
+.bg-okb_okb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -542px !important;
+}
+
+.bg-omisego_omg {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -542px !important;
+}
+
+.bg-ontology_ont {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -542px !important;
+}
+
+.bg-origin_protocol_ogn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -542px !important;
+}
+
+.bg-paxos_standard_pax {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -10px !important;
+}
+
+.bg-pivx_pivx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -62px !important;
+}
+
+.bg-polymath_network_poly {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -114px !important;
+}
+
+.bg-power_ledger_powr {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -166px !important;
+}
+
+.bg-pundi_x_npxs {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -218px !important;
+}
+
+.bg-qtum_qtum {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -270px !important;
+}
+
+.bg-quant_network_qnt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -322px !important;
+}
+
+.bg-quark_chain_qkc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -374px !important;
+}
+
+.bg-ravencoin_rvn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -426px !important;
+}
+
+.bg-reddcoin_rdd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -478px !important;
+}
+
+.bg-republic_protocol_ren {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -530px !important;
+}
+
+.bg-request_network_req {
+    width: 32px; height: 35px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -68px !important;
+}
+
+.bg-reserve_rights_token_rsr {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -594px !important;
+}
+
+.bg-rif_token_rif {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -594px !important;
+}
+
+.bg-ripio_credit_network_rcn {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -594px !important;
+}
+
+.bg-ripple_xrp {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -594px !important;
+}
+
+.bg-rocket_pool_rpl {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -594px !important;
+}
+
+.bg-siacoin_sc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -594px !important;
+}
+
+.bg-singularitynet_agi {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -594px !important;
+}
+
+.bg-solve_care_solve {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -594px !important;
+}
+
+.bg-stasis_eurs_eurs {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -594px !important;
+}
+
+.bg-status_SNT {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -594px !important;
+}
+
+.bg-steem_steem {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -594px !important;
+}
+
+.bg-stellar_xlm {
+    width: 32px; height: 27px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -698px !important;
+}
+
+.bg-storj_storj {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -594px !important;
+}
+
+.bg-stratis_strat {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -594px !important;
+}
+
+.bg-streamr_datacoin_data {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -10px !important;
+}
+
+.bg-super_zero_sero {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -62px !important;
+}
+
+.bg-swipe_sxp {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -114px !important;
+}
+
+.bg-swissborg_chsb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -166px !important;
+}
+
+.bg-syscoin_sys {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -218px !important;
+}
+
+.bg-terra_luna_luna {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -270px !important;
+}
+
+.bg-tether_gold_xaut {
+    width: 32px; height: 28px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -698px !important;
+}
+
+.bg-tether_usdt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -322px !important;
+}
+
+.bg-tezos_xtz {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -374px !important;
+}
+
+.bg-theta_token_theta {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -426px !important;
+}
+
+.bg-thorchain_rune {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -478px !important;
+}
+
+.bg-thunder_token_tt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -530px !important;
+}
+
+.bg-tokenize_xchange_tkx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -582px !important;
+}
+
+.bg-tomochain_tomo {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -646px !important;
+}
+
+.bg-tron_trx {
+    width: 32px; height: 34px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -68px !important;
+}
+
+.bg-true_usd_tusd {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -62px -646px !important;
+}
+
+.bg-uma_uma {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -646px !important;
+}
+
+.bg-unibright_ubt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -166px -646px !important;
+}
+
+.bg-usd_coin_usdc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -218px -646px !important;
+}
+
+.bg-usdk_usdk {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -270px -646px !important;
+}
+
+.bg-vechain_vet {
+    width: 32px; height: 30px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -580px !important;
+}
+
+.bg-verge_xvg {
+    width: 32px; height: 37px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -114px -10px !important;
+}
+
+.bg-vitae_vitae {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -322px -646px !important;
+}
+
+.bg-v_systems_vsys {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -374px -646px !important;
+}
+
+.bg-wanchain_wan {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -426px -646px !important;
+}
+
+.bg-waves_waves {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -478px -646px !important;
+}
+
+.bg-wax_waxp {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -530px -646px !important;
+}
+
+.bg-waykichain_wicc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -582px -646px !important;
+}
+
+.bg-wazirx_wrx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -634px -646px !important;
+}
+
+.bg-wink_win {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -686px -646px !important;
+}
+
+.bg-wirex_wxt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -10px !important;
+}
+
+.bg-wom_token_wom {
+    width: 32px; height: 37px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -10px -68px !important;
+}
+
+.bg-xmax_xmx {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -62px !important;
+}
+
+.bg-yuan_chain_coin_ycc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -114px !important;
+}
+
+.bg-zb_token_zb {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -166px !important;
+}
+
+.bg-zcash_zec {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -218px !important;
+}
+
+.bg-zcoin_xzc {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -270px !important;
+}
+
+.bg-zencash_zen {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -322px !important;
+}
+
+.bg-zilliqa_zil {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -374px !important;
+}
+
+.bg-ztcoin_zt {
+    width: 32px; height: 32px !important;
+    background: url('../image/icon/coin/small/coin_sprites.png') -738px -426px !important;
+}
+
+
+
+/* Coins  */
+
+
+/*#effective-name {}*/
+
+#eff {
+    display: block;
+    font: 70px 'Sans';
+    margin: 0 auto;
+    width: 100%;
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 7s infinite linear;
+}
+
+.text-copy:nth-child(1){
+    stroke: #4D163D;
+    animation-delay: -1;
+}
+
+.text-copy:nth-child(2){
+    stroke: #840037;
+    animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+    stroke: #BD0034;
+    animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+    stroke: #BD0034;
+    animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+    stroke: #FDB731;
+    animation-delay: -5s;
+}
+
+@keyframes stroke-offset{
+    100% {stroke-dashoffset: -35%;}
+}
+
+.form-control{
+    font-size: unset;
+}
+
+

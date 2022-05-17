@@ -1,0 +1,156 @@
+.border-light{
+    border: white 1px solid;
+}
+
+.coin-price{
+    font-size: 1.5rem;
+}
+.bg-red{
+    background-color: #f78a8a ;
+}
+.txt-red{
+    color: #f78a8a;
+}
+.bg-green{
+    background-color: #4cb04c ;
+
+}
+.txt-green{
+    color: #4cb04c;
+
+}
+.coin-price sup {
+    margin: 10px;
+    border-radius: 10px;
+}
+hr.hr-text {
+    position: relative;
+    border: none;
+    height: 1px;
+    background: #999;
+}
+
+hr.hr-text::before {
+    content: attr(data-content);
+    display: inline-block;
+    background: #fff;
+    font-weight: bold;
+    font-size: 0.85rem;
+    color: #999;
+    border-radius: 30rem;
+    padding: 0.2rem 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#coin-circulating-progress{
+    height: 25px;
+    min-width: 250px;
+}
+.coin-description {
+    line-height: 30px;
+}
+
+.links-card {
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+}
+.links-card-body {
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+#reverse-icon {
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition:         transform .8s ease-in-out;
+}
+#reverse-icon:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.bg-exchange-switch {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -158px -10px;
+}
+
+
+.bg-facebook {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -158px -62px;
+}
+
+
+.bg-instagram {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -10px -158px;
+}
+
+
+.bg-question {
+    width: 16px; height: 16px;
+    background: url('../image/coin_page.png') -210px -166px;
+}
+
+
+.bg-reddit {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -62px -158px;
+}
+
+.bg-star {
+    width: 128px; height: 128px;
+    background: url('../image/coin_page.png') -10px -10px;
+}
+
+
+.bg-telegram {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -114px -158px;
+}
+
+
+.bg-twitter {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -210px -10px;
+}
+
+
+.bg-youtube {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -210px -62px;
+}
+
+
+.bg-bitcointalk {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -210px -114px;
+}
+
+.bg-discord {
+    width: 32px; height: 32px;
+    background: url('../image/coin_page.png') -10px -210px;
+}
+.progressbar-text {
+     width: 55%;
+     text-align: center;
+    top:30px !important;
+ }
+
+.datatable-search-input {
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 13px;
+    margin-bottom: 0px !important;
+    border: solid white 1px;
+    background: none;
+    color: white;
+}
+
+.link-black a{
+    color: black;
+}
